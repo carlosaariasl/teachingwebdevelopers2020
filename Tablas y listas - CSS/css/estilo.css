@@ -1,0 +1,12 @@
+table{
+	border:1px solid #000;
+	border-collapse:collapse;
+}
+
+table td{
+	border:1px solid #000;
+}
+
+table tr:hover{
+	background:greenyellow;
+}

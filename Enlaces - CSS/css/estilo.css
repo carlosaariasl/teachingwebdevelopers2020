@@ -1,0 +1,30 @@
+a{
+	font-size:20px;
+	text-decoration: none;
+	padding:10px 20px;
+	margin:1px 20px 10px 0px;
+	display: inline-block;
+	margin:10px 20px;
+	box-shadow:0px 5px 0px #3F3DDE;
+}
+
+a:link{
+	color:#DE5A3D;
+}
+
+
+a:visited{
+	color:#3F3DDE;
+}
+
+
+a:hover{
+	text-decoration:underline;
+	background: black;
+	color:#ffff;
+}
+
+a:active{
+	box-shadow:none;
+}
+
